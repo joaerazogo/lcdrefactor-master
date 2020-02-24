@@ -21,6 +21,8 @@ public class LCDTester {
     String opcionno = "n";
     String NumeroADibujar;
     System.out.println("This is a line in java");
+
+    int a;
       
       try {
 
