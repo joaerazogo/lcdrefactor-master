@@ -20,6 +20,7 @@ public class LCDTester {
     String opcionsi = "s";
     String opcionno = "n";
     String NumeroADibujar;
+    System.out.println("This is a line in java");
       
       try {
 
