@@ -1,7 +1,4 @@
-import java.util.ArrayList;
-import java.util.Iterator;
-import java.util.List;
-import java.util.Scanner;
+import java.util.ArrayList; import java.util.Iterator; import java.util.List; import java.util.Scanner;
 
 public class LCDTester {
 
@@ -21,6 +18,7 @@ public class LCDTester {
     String opcionno = "n";
     String NumeroADibujar;
     System.out.println("This is a line in java");
+    System.out.println("This is a second comment in java");
       
       try {
 
